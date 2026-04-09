@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "oBybrBKDu6A=",
+  "success": true,
+  "projectFilePath": "F:\\VisualStudio\\source\\repos\\VortekAPI\\VortekAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diuli\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "C:\\Users\\diuli\\.nuget\\packages\\mailkit\\4.15.1\\mailkit.4.15.1.nupkg.sha512",
+    "C:\\Users\\diuli\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.4\\microsoft.aspnetcore.openapi.10.0.4.nupkg.sha512",
+    "C:\\Users\\diuli\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\diuli\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
+    "C:\\Users\\diuli\\.nuget\\packages\\mimekit\\4.15.1\\mimekit.4.15.1.nupkg.sha512",
+    "C:\\Users\\diuli\\.nuget\\packages\\swashbuckle.aspnetcore\\10.1.7\\swashbuckle.aspnetcore.10.1.7.nupkg.sha512",
+    "C:\\Users\\diuli\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.7\\swashbuckle.aspnetcore.swagger.10.1.7.nupkg.sha512",
+    "C:\\Users\\diuli\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.7\\swashbuckle.aspnetcore.swaggergen.10.1.7.nupkg.sha512",
+    "C:\\Users\\diuli\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.7\\swashbuckle.aspnetcore.swaggerui.10.1.7.nupkg.sha512",
+    "C:\\Users\\diuli\\.nuget\\packages\\system.security.cryptography.pkcs\\10.0.0\\system.security.cryptography.pkcs.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
