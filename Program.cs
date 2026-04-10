@@ -11,21 +11,23 @@ builder.Services.AddCors(options =>
         {
             policy.AllowAnyOrigin()
                   .AllowAnyMethod()
-                  .AllowAnyHeader();    
+                  .AllowAnyHeader();
         });
 });
 
 var app = builder.Build();
 
+app.UseCors("PermitirTudo");
+
 app.UseSwagger();
 app.UseSwaggerUI();
 
-app.UseHttpsRedirection();
-
 app.UseAuthorization();
 
-app.UseCors("PermitirTudo");
-
 app.MapControllers();
+
+// 🔥 ESSA PARTE RESOLVE O RENDER
+var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+app.Urls.Add($"http://*:{port}");
 
 app.Run();
